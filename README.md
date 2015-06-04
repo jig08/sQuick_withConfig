@@ -7,7 +7,7 @@
 
 #sQuick
 
-The intended “searchQuick” (sQuick) is an application to enable a user to search a set of books or texts, like an encyclopaedia, or some other topical book collection offline.
+The intended “searchQuick” (sQuick) is an application to enable a user to search a set of books or texts, like an encyclopedia, or some other topical book collection offline.
 
 Built in Pharo 4.0
 
