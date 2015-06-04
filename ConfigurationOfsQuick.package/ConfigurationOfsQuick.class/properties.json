@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfsQuick",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfsQuick",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
