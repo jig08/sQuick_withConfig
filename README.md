@@ -2,7 +2,7 @@
 
 - This was intended to make a configuration for the sQuick project but now the project can be directly loaded via the Configuration Browser in Pharo 4.0
 
-- World > Configuration Browser > sQuick(jigyasa)
+- World > Tools > Configuration Browser > sQuick(jigyasa)
 
 
 #sQuick
